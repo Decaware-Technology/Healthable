@@ -1,6 +1,7 @@
 Although it will show these messages but this file is 100% secure.
 
-<a href="https://i.stack.imgur.com/LlLiX.png">Blocked by PLAY PROTECT</a>
+![image](https://user-images.githubusercontent.com/69301779/111862123-32b98800-8979-11eb-8f7e-4b85debff8c1.png)
+
 
 <a href="https://i.ibb.co/xjzqZtP/manual-install-confirm-350x188.png">Install confirm</a>
 
