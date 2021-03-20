@@ -2,8 +2,8 @@ Although it will show these messages but this file is 100% secure.
 
 ![image](https://user-images.githubusercontent.com/69301779/111862123-32b98800-8979-11eb-8f7e-4b85debff8c1.png)
 
+![image](https://user-images.githubusercontent.com/69301779/111862132-4369fe00-8979-11eb-86ce-3e6b5bf707d5.png)
 
-<a href="https://i.ibb.co/xjzqZtP/manual-install-confirm-350x188.png">Install confirm</a>
 
 This happens because the app is not on Play store
 
